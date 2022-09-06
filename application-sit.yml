@@ -1,3 +1,5 @@
 sampl:
   messag: applicationyml
-  
+spring.datasource:  
+  username: ENC(1fHLEIC6LESlXJQ6OoC0/w3RbQROHVAi)
+  password: ENC(fccuTtfooFd9veOUx5M6cDURaZg9sRGt)
