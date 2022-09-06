@@ -1,5 +1,5 @@
 sampl:
-  messag: application-properties
+  messag: application-pro
 spring:
   datasource:
     url: jdbc:oracle:thin:@//10.21.77.108:1521/PRMSITDB
