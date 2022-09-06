@@ -1,5 +1,9 @@
 sampl:
   messag: applicationyml
-spring.datasource:  
-  username: ENC(1fHLEIC6LESlXJQ6OoC0/w3RbQROHVAi)
-  password: ENC(fccuTtfooFd9veOUx5M6cDURaZg9sRGt)
+custo:
+  datasourc:
+    url: jdbc:oracle:thin:@//10.21.77.108:1521/PRMSITDB
+    driverClassName: oracle.jdbc.OracleDriver
+    data: "classpath*:data.sql"  
+    username: ENC(1fHLEIC6LESlXJQ6OoC0/w3RbQROHVAi)
+    password: ENC(fccuTtfooFd9veOUx5M6cDURaZg9sRGt)
