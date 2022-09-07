@@ -6,4 +6,4 @@ custo:
     driverClassName: oracle.jdbc.OracleDriver
     data: "classpath*:data.sql"  
     username: ENC(1fHLEIC6LESlXJQ6OoC0/w3RbQROHVAi)
-    password: ENC(nZuRhAidKjB3aE/lRK/WyA==)
+    password: ENC(h1KnT/60kPy5JkZyIqxgDw==)
