@@ -7,3 +7,7 @@ custo:
     data: "classpath*:data.sql"  
     username: ENC(1fHLEIC6LESlXJQ6OoC0/w3RbQROHVAi)
     password: ENC(h1KnT/60kPy5JkZyIqxgDw==)
+spring:
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
+
