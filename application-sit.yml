@@ -1,7 +1,7 @@
 sampl:
   messag: application-pro
-spring:
-  datasource:
+custo:
+  datasourc:
     url: jdbc:oracle:thin:@//10.21.77.108:1521/PRMSITDB
     driverClassName: oracle.jdbc.OracleDriver
     data: "classpath*:data.sql"  
