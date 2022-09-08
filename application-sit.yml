@@ -2,9 +2,9 @@ sampl:
   messag: application-
 custo:
   datasourc:
-    urls: jdbc:oracle:thin:@//10.21.77.108:1521/PRMSITDB
+    url: jdbc:oracle:thin:@//10.21.77.108:1521/PRMSITDB
     driverClassNames: oracle.jdbc.OracleDriver
-    datas: "classpath*:data.sql"  
-    usernames: ENC(1fHLEIC6LESlXJQ6OoC0/w3RbQROHVAi)
-    passwords: ENC(h1KnT/60kPy5JkZyIqxgDw==)
+    data: "classpath*:data.sql"  
+    username: ENC(1fHLEIC6LESlXJQ6OoC0/w3RbQROHVAi)
+    password: ENC(h1KnT/60kPy5JkZyIqxgDw==)
 
