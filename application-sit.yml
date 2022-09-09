@@ -6,5 +6,5 @@ custo:
     driverClassNames: oracle.jdbc.OracleDriver
     data: "classpath*:data.sql"  
     username: RULEENGINE
-    password: test
+    password: test123
 
