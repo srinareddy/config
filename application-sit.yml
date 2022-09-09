@@ -5,6 +5,6 @@ custo:
     url: jdbc:oracle:thin:@//10.21.77.108:1521/PRMSITDB
     driverClassNames: oracle.jdbc.OracleDriver
     data: "classpath*:data.sql"  
-    username: RULENGINE
+    username: RULEENGINE
     password: test
 
