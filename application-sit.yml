@@ -1,5 +1,5 @@
 sampl:
-  messag: application-
+  messag: application-test
 custo:
   datasourc:
     url: jdbc:oracle:thin:@//10.21.77.108:1521/PRMSITDB
