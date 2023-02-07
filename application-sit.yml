@@ -1,10 +1,8 @@
-samp:
-  messag: application-
-custo:
-  datasourc:
+custom:
+  datasource:
     url: jdbc:oracle:thin:@//10.21.77.108:1521/PRMSITDB
     driverClassNames: oracle.jdbc.OracleDriver
     data: "classpath*:data.sql"  
-    username: ENC(AsOAeT89/i41V4UXmeHEUB1ukCuVjzfn)
-    password: ENC(AsOAeT89/i41V4UXmeHEUB1ukCuVjzfn)
+    username: si_ims
+    password: Aghtjh#gh7
 
