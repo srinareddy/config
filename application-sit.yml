@@ -1,3 +1,2 @@
-temp:
-  name: Ram
-  age: 10
+temp.name:Ram
+temp.age:10
