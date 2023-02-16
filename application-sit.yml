@@ -5,3 +5,5 @@ custom:
     data: "classpath*:data.sql"  
     username: si_ims
     password: Aghtjh#gh7
+
+random: xyz
